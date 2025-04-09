@@ -15,7 +15,7 @@ Antes de empezar, asegúrate de tener instalado:
 Abre una terminal o consola y ejecuta el siguiente comando para clonar este repositorio:
 
 ```
-git clone https://github.com/TuUsuario/flask-hola-mundo.git
+git clone https://github.com/JD-Profe/flask-hola-mundo.git
 ```
 
 Después, entra en la carpeta del proyecto:
